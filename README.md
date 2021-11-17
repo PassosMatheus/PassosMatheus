@@ -1,7 +1,7 @@
 <!--- Boas vindas --->
 ### Olá! seja muito bem vindo(a) ao meu perfil do gitHub!
 
-- 🔭 Trabalho em desenvolvimento back-and.
+- 🔭 Trabalho com desenvolvimento back-and.
 - 🌱 Atualmente estou estudando Pyhton e Node.
 
 <!--- Dashboard --->
