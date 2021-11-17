@@ -21,9 +21,14 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
+ 
+## Contato
+<div style="display: inline_block">
+  <a href ="https://wa.me/5511984946126"><img align="center" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/2111/2111728.png" target="_blank"></a>
+  <a href ="mailto:matheus.martinspassos@yahoo.com.com"><img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/725/725643.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1637154980~hmac=29c735741864b307aed1bd2d582cb64f" target="_blank"></a> 
   
-<!--- Contato --->
-<div>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<\div>
+<!--- Cobrinha --->
+  ![Snake animation](https://github.com/passosmatheus/passosmatheus/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
