@@ -26,7 +26,7 @@
 <div style="display: inline_block">
   <a href ="https://wa.me/5511984946126" target="_blank"><img align="center" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/2111/2111728.png"></a>
   <a href ="mailto:matheus.martinspassos@yahoo.com.com" target="_blank"><img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/725/725643.png"></a>
-  <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1637154980~hmac=29c735741864b307aed1bd2d582cb64f"></a> 
+  <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1637614950~hmac=355dfed25293e5d87d33579adf7e36a1"></a> 
 </div>
   
 <!--- Cobrinha --->
