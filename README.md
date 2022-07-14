@@ -1,8 +1,8 @@
 <!--- Boas vindas --->
 ### Olá! seja muito bem vindo(a) ao meu perfil do gitHub!
 
-- 🔭 Trabalho com desenvolvimento back-and.
-- 🌱 Atualmente estou estudando Pyhton e Node.
+- 💻 Trabalho como QA.
+- 📚 Atualmente estou estudando C#.
 
 <!--- Dashboard --->
 <div align="center">
@@ -26,7 +26,7 @@
 <div style="display: inline_block">
   <a href ="https://wa.me/5511984946126" target="_blank"><img align="center" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/2111/2111728.png"></a>
   <a href ="mailto:matheus.martinspassos@yahoo.com.com" target="_blank"><img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/725/725643.png"></a>
-  <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1637614950~hmac=355dfed25293e5d87d33579adf7e36a1"></a> 
+  <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="https://www.flaticon.com/br/icone-gratis/linkedin_145807?term=linkedin&page=1&position=1&page=1&position=1&related_id=145807&origin=search"></a> 
 </div>
   
 <!--- Cobrinha --->
