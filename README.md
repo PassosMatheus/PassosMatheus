@@ -1,8 +1,8 @@
 <!--- Boas vindas --->
 ### Olá! seja muito bem vindo(a) ao meu perfil do gitHub!
 
-- 💻 Trabalho como QA.
-- 📚 Atualmente estou estudando Python.
+- 💻 Trabalhando como QA.
+- 📚 Atualmente estudando Python.
 
 <!--- Dashboard --->
 <div align="center">
@@ -28,6 +28,9 @@
   <a href ="mailto:matheus.martinspassos@yahoo.com.com" target="_blank"><img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/725/725643.png"></a>
   <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="https://www.flaticon.com/br/icone-gratis/linkedin_145807?term=linkedin&page=1&position=1&page=1&position=1&related_id=145807&origin=search](https://www.flaticon.com/br/icone-gratis/linkedin_145807?term=linkedin&page=1&position=1&page=1&position=1&related_id=145807&origin=search"></a> 
 </div>
+ 
+<!--- Contador de visitas ---->
+![Visitor Count](https://profile-counter.glitch.me/{PassosMatheus}/count.svg)
   
 <!--- Cobrinha --->
 ![Snake animation](https://github.com/passosmatheus/passosmatheus/blob/output/github-contribution-grid-snake.svg)
