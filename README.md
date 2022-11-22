@@ -26,10 +26,10 @@
 <div style="display: inline_block">
   <a href ="https://wa.me/5511984946126" target="_blank"><img align="center" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/2111/2111728.png"></a>
   <a href ="mailto:matheus.martinspassos@yahoo.com.com" target="_blank"><img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/725/725643.png"></a>
-  <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="https://www.flaticon.com/br/icone-gratis/linkedin_145807?term=linkedin&page=1&position=1&page=1&position=1&related_id=145807&origin=search](https://www.flaticon.com/br/icone-gratis/linkedin_145807?term=linkedin&page=1&position=1&page=1&position=1&related_id=145807&origin=search"></a> 
+  <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="[![image](https://user-images.githubusercontent.com/66800563/203340744-1039db83-0018-400f-bb9d-1946c96794bf.png)](https://www.flaticon.com/br/icone-gratis/linkedin_3536505?term=linkedin&page=1&position=1&page=1&position=1&related_id=3536505&origin=search)"></a> 
 </div>
  
-<!--- Contador de visitas ---->
+## Contador de visitas
 ![Visitor Count](https://profile-counter.glitch.me/{PassosMatheus}/count.svg)
   
 <!--- Cobrinha --->
