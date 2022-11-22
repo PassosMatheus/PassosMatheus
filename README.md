@@ -26,7 +26,7 @@
 <div style="display: inline_block">
   <a href ="https://wa.me/5511984946126" target="_blank"><img align="center" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/2111/2111728.png"></a>
   <a href ="mailto:matheus.martinspassos@yahoo.com.com" target="_blank"><img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/725/725643.png"></a>
-  <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="https://www.flaticon.com/br/icone-gratis/linkedin_3536505?term=linkedin&page=1&position=1&page=1&position=1&related_id=3536505&origin=search"></a> 
+  <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="[https://www.flaticon.com/br/icone-gratis/linkedin_3536505?term=linkedin&page=1&position=1&page=1&position=1&related_id=3536505&origin=search](https://cdn-icons-png.flaticon.com/128/3536/3536505.png)"></a> 
 </div>
  
 ## Contador de visitas
