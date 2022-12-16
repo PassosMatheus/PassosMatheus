@@ -2,7 +2,7 @@
 ### Olá! seja muito bem vindo(a) ao meu perfil do gitHub!
 
 - 💻 Trabalhando como QA.
-- 📚 Atualmente estudando Python.
+- 📚 Atualmente estudando C# e Angular.
 
 <!--- Dashboard --->
 <div align="center">
