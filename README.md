@@ -20,6 +20,8 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="CSharp" height="30" width="40" src"https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-line.svg">
+  <img align="center" alt="Java" height="30" width="40" src"https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-line.svg">
 </div>
  
 ## Contato
