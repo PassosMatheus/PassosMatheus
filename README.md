@@ -1,16 +1,16 @@
 ### 👋 Olá! Eu sou o Matheus Passos
 
-💻 **Engenheiro de Qualidade de Software (QA)** com mais de 5 anos de experiência em testes e forte atuação em automação.
+💻 **Analista de Qualidade (QA)** com mais de 5 anos de experiência em testes e forte atuação em automação.
 
 🎓 Pós-graduado em Engenharia de Software  
-📜 Certificações: [CTFL](https://www.istqb.org/) | [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+📜 Certificações: [CTFL]([https://www.istqb.org/](https://bcr.bstqb.org.br/cert?field_certificado_numero_value=+&field_certificado_nome_value=Matheus+Passos)) | [AWS Cloud Practitioner]([https://aws.amazon.com/certification/certified-cloud-practitioner/](https://www.credly.com/badges/5987aaaf-44fd-4cc3-8969-4cc3cadc8818/linked_in_profile))
 
 ---
 
 ### 🔧 Tecnologias e Ferramentas
 
-- **Linguagens & Scripts**: JavaScript, Python, PHP, ShellScript  
-- **Automação de Testes**: Cypress, Robot Framework, TestComplete, Selenium IDE  
+- **Linguagens**: Java, JavaScript, Node.js, C#, Python, PHP e ShellScript  
+- **Automação de Testes**: Cypress, Robot Framework, TestComplete, Selenium.  
 - **Testes de API**: Postman, Insomnia  
 - **Bancos de Dados**: SQL Server, MariaDB, AWS Aurora, DocumentDB  
 - **Testes de Segurança**: OWASP ZAP, Nessus  
@@ -29,14 +29,18 @@
 
 ### 📫 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/qa-matheus-passos/)  
-- 📧 matheus.martinspassos@yahoo.com  
-- 📱 +55 (11) 98494-6126  
+## Contato
+<div style="display: inline_block">
+  <a href ="https://wa.me/5511984946126" target="_blank"><img align="center" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/2111/2111728.png"></a>
+  <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> 
+</div>
 
 ---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PassosMatheus&show_icons=true&theme=tokyonight&hide=stars)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PassosMatheus&layout=compact&theme=tokyonight)
+<!---
+#![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PassosMatheus&show_icons=true&theme=tokyonight&hide=stars)  
+#![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PassosMatheus&layout=compact&theme=tokyonight)
+--->
 
 <!--- Dashboard --->
 <div align="center">
@@ -55,13 +59,8 @@
    <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
  
-## Contato
-<div style="display: inline_block">
-  <a href ="https://wa.me/5511984946126" target="_blank"><img align="center" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/2111/2111728.png"></a>
-  <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> 
-</div>
-  
 <!--- Cobrinha --->
 ![Snake animation](https://github.com/passosmatheus/passosmatheus/blob/output/github-contribution-grid-snake.svg)
+
   
 
