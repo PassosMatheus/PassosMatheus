@@ -27,10 +27,46 @@
   <a href ="mailto:matheus.martinspassos@yahoo.com.com" target="_blank"><img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/725/725643.png"></a>
   <a href="https://www.linkedin.com/in/matheus-passos-21083b120/" target="_blank"><img align="center" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> 
 </div>
- 
-## Contador de visitas
-![Visitor Count](https://profile-counter.glitch.me/{PassosMatheus}/count.svg)
   
 <!--- Cobrinha --->
 ![Snake animation](https://github.com/passosmatheus/passosmatheus/blob/output/github-contribution-grid-snake.svg)
   
+### 👋 Olá! Eu sou o Matheus Passos
+
+💻 **Engenheiro de Qualidade de Software (QA)** com mais de 5 anos de experiência em testes e forte atuação em automação.
+
+🎓 Pós-graduado em Engenharia de Software  
+📜 Certificações: [CTFL](https://www.istqb.org/) | [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+---
+
+### 🔧 Tecnologias e Ferramentas
+
+- **Linguagens & Scripts**: JavaScript, Python, PHP, ShellScript  
+- **Automação de Testes**: Cypress, Robot Framework, TestComplete, Selenium IDE  
+- **Testes de API**: Postman, Insomnia  
+- **Bancos de Dados**: SQL Server, MariaDB, AWS Aurora, DocumentDB  
+- **Testes de Segurança**: OWASP ZAP, Nessus  
+- **Controle de Versão**: Git, SVN  
+- **Metodologias**: Agile, Scrum  
+
+---
+
+### 🚀 Atualmente trabalhando em:
+
+- Estratégias de automação para aplicações desktop  
+- Criação de testes de integração com validações em banco de dados  
+- Compartilhamento de POCs e aprendizados no LinkedIn  
+
+---
+
+### 📫 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/qa-matheus-passos/)  
+- 📧 matheus.martinspassos@yahoo.com  
+- 📱 +55 (11) 98494-6126  
+
+---
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=qa-matheus-passos&show_icons=true&theme=tokyonight&hide=stars)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=qa-matheus-passos&layout=compact&theme=tokyonight)
