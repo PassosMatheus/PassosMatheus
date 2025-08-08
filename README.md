@@ -28,6 +28,15 @@ Além dessas também conheço:
 - Testes de performance com Jmeter.
 
 ---
+## 📚 Documentos de Estudo
+
+Aqui você encontra materiais, anotações e guias que utilizo para estudo e consulta no meu dia a dia como QA.
+
+- [Guia de estudos para certificação Cloud Practitioner](https://github.com/PassosMatheus/documentos/blob/main/AWS.docx)
+- [Anotações de Automação de Testes](https://github.com/PassosMatheus/documentos/blob/main/CTFL.docx)
+
+> Esta seção será atualizada constantemente conforme novos estudos e descobertas.
+
 
 ### 📫 Onde me encontrar
 <div style="display: inline_block">
